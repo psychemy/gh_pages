@@ -1,0 +1,135 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "psychemy.uk",
+    "description": "",
+    "home_page_url": "https://psychemy.github.io/gh_pages",
+    "feed_url": "https://psychemy.github.io/gh_pages/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Simon Spiers"
+    },
+    "items": [
+        {
+            "id": "https://psychemy.github.io/gh_pages/tower-of-sound/",
+            "url": "https://psychemy.github.io/gh_pages/tower-of-sound/",
+            "title": "Tower of Sound",
+            "summary": "The iconic SONY Walkman TPS-L2 cassette player/recorder was the world's first low-cost personal stereo. Radios had come before, but you had to listen&hellip;",
+            "content_html": "<p>The iconic SONY Walkman TPS-L2 cassette player/recorder was the world's first low-cost personal stereo. Radios had come before, but you had to listen to a DJ's shoddy  playlist. The Walkman let you strut your stuff to your favourite beats. Bringing vivid colour to life amongst the towering brutalist landscape of an 1980's London housing estate. Yes, we now have the incredible power, storage and sound of a smart phone, but I miss that satisfying clunk as you inserted yet another cassette, followed by the tactile reassuring click of the play button and the whirring hiss as the machine sped its way to your favourite track to play again and again.</p>\n<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://psychemy.github.io/gh_pages/media/posts/10/gallery/sony_walkman_TPS-L2-2.jpg\" data-size=\"2560x2560\"><img loading=\"lazy\" src=\"https://psychemy.github.io/gh_pages/media/posts/10/gallery/sony_walkman_TPS-L2-2-thumbnail.jpg\" alt=\"SONY Walkman TPS-L2\" width=\"720\" height=\"720\"></a>\n<figcaption>60 x 60cm - Signed limited edition of 29.</figcaption>\n</figure>\n</div></div>\n<blockquote>\n<p>Paper-cut artworks are available as 'limited edition originals' hand cut by myself using naturally textured 45% cotton rag paper which is both light-fast and acid-free in rich deep dyed colours. They come framed in white or black. All frames are conservation standard with 40% UV protection.</p>\n</blockquote>\n<p>If you would like to purchase an original paper-cut...</p>",
+            "image": "https://psychemy.github.io/gh_pages/media/posts/10/sony_walkman_TPS-L2-2.jpg",
+            "author": {
+                "name": "Simon Spiers"
+            },
+            "tags": [
+                   "Paper Cuts"
+            ],
+            "date_published": "2023-10-09T23:13:02+01:00",
+            "date_modified": "2023-10-10T12:29:01+01:00"
+        },
+        {
+            "id": "https://psychemy.github.io/gh_pages/never-mind-the-2/",
+            "url": "https://psychemy.github.io/gh_pages/never-mind-the-2/",
+            "title": "Mix Tape",
+            "summary": "This paper-cut was inspired by the many hours spent as a teenager recording mix tapes off the John Peel radio show. Bringing back&hellip;",
+            "content_html": "<p>This paper-cut was inspired by the many hours spent as a teenager recording mix tapes off the John Peel radio show. Bringing back fond memories of the early 'Flip-Top-Box' packaged cassette-only releases by Bow Wow Wow</p>\n<figure class=\"post__image post__image--center\"><img loading=\"lazy\"  src=\"https://psychemy.github.io/gh_pages/media/posts/9/cassette-pet.jpg\" alt=\"Bow Wow Wow -Cassette Pet\" width=\"30%\" height=\"30%\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://psychemy.github.io/gh_pages/media/posts/9/responsive/cassette-pet-xs.jpg 300w ,https://psychemy.github.io/gh_pages/media/posts/9/responsive/cassette-pet-sm.jpg 480w ,https://psychemy.github.io/gh_pages/media/posts/9/responsive/cassette-pet-md.jpg 768w ,https://psychemy.github.io/gh_pages/media/posts/9/responsive/cassette-pet-lg.jpg 1024w ,https://psychemy.github.io/gh_pages/media/posts/9/responsive/cassette-pet-xl.jpg 1360w ,https://psychemy.github.io/gh_pages/media/posts/9/responsive/cassette-pet-2xl.jpg 1600w\"></figure>\n<p>'C30 C60 C90 Go! Off the radio, I get a constant flow. Hit it, pause it, record it and play. Turn it, rewind and rub it away....'. Plus the roller coaster that was teenage love + loss!</p>\n<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"1\">\n<figure class=\"gallery__item\"><a href=\"https://psychemy.github.io/gh_pages/media/posts/9/gallery/mix-tape-2023.jpg\" data-size=\"2560x2560\"><img loading=\"lazy\" src=\"https://psychemy.github.io/gh_pages/media/posts/9/gallery/mix-tape-2023-thumbnail.jpg\" alt=\"Mix Tape\" width=\"720\" height=\"720\"></a>\n<figcaption>60 x 60cm - Signed limited edition of 29.</figcaption>\n</figure>\n</div></div>\n<blockquote>\n<p>Paper-cut artworks are available as 'limited edition originals' hand cut by myself using naturally textured 45% cotton rag paper which is both light-fast and acid-free in rich deep dyed colours. They come framed in white or black. All frames are conservation standard with 40% UV protection, with higher UV protection available upon request.</p>\n</blockquote>\n<p>If you would like to purchase an original paper-cut...</p>",
+            "image": "https://psychemy.github.io/gh_pages/media/posts/9/mix-tape-2023.jpg",
+            "author": {
+                "name": "Simon Spiers"
+            },
+            "tags": [
+                   "Paper Cuts"
+            ],
+            "date_published": "2023-10-06T13:59:07+01:00",
+            "date_modified": "2023-10-10T12:21:11+01:00"
+        },
+        {
+            "id": "https://psychemy.github.io/gh_pages/biography/",
+            "url": "https://psychemy.github.io/gh_pages/biography/",
+            "title": "Biography",
+            "summary": "Personal stuff goes here.",
+            "content_html": "<p>Personal stuff goes here.</p>",
+            "author": {
+                "name": "Simon Spiers"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-10-05T15:48:41+01:00",
+            "date_modified": "2023-10-05T15:48:41+01:00"
+        },
+        {
+            "id": "https://psychemy.github.io/gh_pages/web-design/",
+            "url": "https://psychemy.github.io/gh_pages/web-design/",
+            "title": "Web Design",
+            "summary": "Website screenshots and links..",
+            "content_html": "<p>Website screenshots and links..</p>",
+            "author": {
+                "name": "Simon Spiers"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-10-05T15:45:54+01:00",
+            "date_modified": "2023-10-05T15:45:54+01:00"
+        },
+        {
+            "id": "https://psychemy.github.io/gh_pages/contact-me-2/",
+            "url": "https://psychemy.github.io/gh_pages/contact-me-2/",
+            "title": "Contact Me",
+            "summary": "Loading…",
+            "content_html": "<div class=\"post__iframe\"><iframe loading=\"lazy\" id=\"myiframe\" src=\"https://docs.google.com/forms/d/e/1FAIpQLSe3FIBCREkK8LIDgJa-WURsFF8opwF259GNeXAhnVTImU8Ogw/viewform?embedded=true\" frameborder=\"0\" marginheight=\"0\" marginwidth=\"0\">Loading…</iframe></div>",
+            "author": {
+                "name": "Simon Spiers"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-10-05T15:43:25+01:00",
+            "date_modified": "2023-10-10T13:09:51+01:00"
+        },
+        {
+            "id": "https://psychemy.github.io/gh_pages/sky-high/",
+            "url": "https://psychemy.github.io/gh_pages/sky-high/",
+            "title": "Sky High!",
+            "summary": "Inspired by poster art of the 1970's. An acid trip has morphed the Manhattan Island skyscrapers into fully loaded hypodermic syringes lit by&hellip;",
+            "content_html": "<p>Inspired by poster art of the 1970's. An acid trip has morphed the Manhattan Island skyscrapers into fully loaded hypodermic syringes lit by a setting 'Golden Brown' sun.</p>\n<blockquote>\n<p>How far does to high go!</p>\n</blockquote>\n<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://psychemy.github.io/gh_pages/media/posts/5/gallery/sky-high-2023.jpeg\" data-size=\"1707x2560\"><img loading=\"lazy\" src=\"https://psychemy.github.io/gh_pages/media/posts/5/gallery/sky-high-2023-thumbnail.jpeg\" alt=\"Sky High 39 x 60cm - Signed limited edition of 29\" width=\"720\" height=\"1080\"></a>\n<figcaption>39 x 60cm - Signed limited edition of 29</figcaption>\n</figure>\n</div></div>\n<blockquote>\n<p>Paper-cut artworks are available as 'limited edition originals' hand cut by myself using naturally textured 45% cotton rag paper which is both light-fast and acid-free in rich deep dyed colours. They come framed in white or black. All frames are conservation standard with 40% UV protection.</p>\n</blockquote>\n<p>If you would like to purchase an original paper-cut...</p>",
+            "image": "https://psychemy.github.io/gh_pages/media/posts/5/sky-high-2023-3.jpeg",
+            "author": {
+                "name": "Simon Spiers"
+            },
+            "tags": [
+                   "Paper Cuts"
+            ],
+            "date_published": "2023-10-05T15:05:25+01:00",
+            "date_modified": "2023-10-10T12:31:25+01:00"
+        },
+        {
+            "id": "https://psychemy.github.io/gh_pages/diamonds-are/",
+            "url": "https://psychemy.github.io/gh_pages/diamonds-are/",
+            "title": "Diamonds Are...",
+            "summary": "This paper-cut is a mash-up of the late, great, beautiful star 'Marilyn Monroe' and the painting 'Chinese Girl' by 'Vladimir Tretchikoff'. Featuring a&hellip;",
+            "content_html": "<p>This paper-cut is a mash-up of the late, great, beautiful star 'Marilyn Monroe' and the painting 'Chinese Girl' by 'Vladimir Tretchikoff'. Featuring a girls best friend 'diamonds' repeating across the artwork.</p>\n<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://psychemy.github.io/gh_pages/media/posts/4/gallery/diamonds_are-2023.jpg\" data-size=\"2560x1110\"><img loading=\"lazy\" src=\"https://psychemy.github.io/gh_pages/media/posts/4/gallery/diamonds_are-2023-thumbnail.jpg\" alt=\"Diamonds are... 60 x 26cm - Signed limited Edition of 29.\" width=\"720\" height=\"312\"></a>\n<figcaption>60 x 26cm - Signed limited Edition of 29.</figcaption>\n</figure>\n</div></div>\n<blockquote>\n<p>Paper-cut artworks are available as 'limited edition originals' hand cut by myself using naturally textured 45% cotton rag paper which is both light-fast and acid-free in rich deep dyed colours. They come framed in white or black. All frames are conservation standard with 40% UV protection.</p>\n</blockquote>\n<p>If you would like to purchase an original paper-cut...</p>",
+            "image": "https://psychemy.github.io/gh_pages/media/posts/4/diamonds_are-2023-3.jpg",
+            "author": {
+                "name": "Simon Spiers"
+            },
+            "tags": [
+                   "Paper Cuts"
+            ],
+            "date_published": "2023-10-05T13:39:29+01:00",
+            "date_modified": "2023-10-10T12:29:32+01:00"
+        },
+        {
+            "id": "https://psychemy.github.io/gh_pages/never-mind-the/",
+            "url": "https://psychemy.github.io/gh_pages/never-mind-the/",
+            "title": "Never Mind the...",
+            "summary": "This paper-cut was inspired by the seminal 1977 punk album by the 'Sex Pistols'. The late Queen Elizabeth II's profile is referenced from&hellip;",
+            "content_html": "<p>This paper-cut was inspired by the seminal 1977 punk album by the 'Sex Pistols'. The late Queen Elizabeth II's profile is referenced from the 'Royal Mail' stamps issued from 1977-1981. The gun a Smith and Wesson .38 M5 revolver was used by plain clothes officers of The <span tabindex=\"0\" role=\"tooltip\"><span class=\"c5aZPb\" tabindex=\"0\" role=\"button\" data-enable-toggle-animation=\"true\" data-extra-container-classes=\"ZLo7Eb\" data-hover-hide-delay=\"1000\" data-hover-open-delay=\"500\" data-send-open-event=\"true\" data-theme=\"0\" data-width=\"250\" data-ved=\"2ahUKEwj9wMyX_9yBAxX0_rsIHQGqDhAQmpgGegQIFhAD\"><span class=\"JPfdse\" data-bubble-link=\"\" data-segment-text=\"Diplomatic Protection Group\">Diplomatic Protection Group.</span></span></span> These were loaded with six bullets and they carried a clip of six spare rounds. The background 'you guessed it' is the Houses of Parliament.</p>\n<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://psychemy.github.io/gh_pages/media/posts/3/gallery/never_mind_the-2023-2.jpg\" data-size=\"2560x1066\"><img loading=\"lazy\" src=\"https://psychemy.github.io/gh_pages/media/posts/3/gallery/never_mind_the-2023-2-thumbnail.jpg\" alt=\"60 x 25cm - Signed limited edition of 29.\" width=\"720\" height=\"300\"></a>\n<figcaption>60 x 25cm - Signed limited edition of 29.</figcaption>\n</figure>\n</div></div>\n<blockquote>\n<p>Paper-cut artworks are available as 'limited edition originals' hand cut by myself using naturally textured 45% cotton rag paper which is both light-fast and acid-free in rich deep dyed colours. They come framed in white or black. All frames are conservation standard with 40% UV protection.</p>\n</blockquote>\n<p>If you would like to purchase an original paper-cut...</p>",
+            "image": "https://psychemy.github.io/gh_pages/media/posts/3/never_mind_the-2023-2.jpg",
+            "author": {
+                "name": "Simon Spiers"
+            },
+            "tags": [
+                   "Paper Cuts"
+            ],
+            "date_published": "2023-10-04T16:49:46+01:00",
+            "date_modified": "2023-10-10T12:28:48+01:00"
+        }
+    ]
+}

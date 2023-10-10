@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://psychemy.github.io/gh_pages/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://psychemy.github.io/gh_pages/</loc>
+</url>
+<url>
+<loc>https://psychemy.github.io/gh_pages/biography/</loc>
+<lastmod>2023-10-05T15:48:41+01:00</lastmod>
+</url>
+<url>
+<loc>https://psychemy.github.io/gh_pages/contact-me-2/</loc>
+<lastmod>2023-10-10T13:09:51+01:00</lastmod>
+</url>
+<url>
+<loc>https://psychemy.github.io/gh_pages/diamonds-are/</loc>
+<lastmod>2023-10-10T12:29:32+01:00</lastmod>
+<image:image>
+<image:loc>https://psychemy.github.io/gh_pages/media/posts/4/diamonds_are-2023-3.jpg</image:loc>
+<image:title><![CDATA[Diamonds Are... 60 x 26cm]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://psychemy.github.io/gh_pages/media/posts/4/gallery/diamonds_are-2023-thumbnail.jpg</image:loc>
+<image:title><![CDATA[Diamonds are... 60 x 26cm - Signed limited Edition of 29.]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://psychemy.github.io/gh_pages/never-mind-the/</loc>
+<lastmod>2023-10-10T12:28:48+01:00</lastmod>
+<image:image>
+<image:loc>https://psychemy.github.io/gh_pages/media/posts/3/never_mind_the-2023-2.jpg</image:loc>
+<image:title><![CDATA[Never Mind the... 60 x 25cm]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://psychemy.github.io/gh_pages/media/posts/3/gallery/never_mind_the-2023-2-thumbnail.jpg</image:loc>
+<image:title><![CDATA[60 x 25cm - Signed limited edition of 29.]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://psychemy.github.io/gh_pages/never-mind-the-2/</loc>
+<lastmod>2023-10-10T12:21:11+01:00</lastmod>
+<image:image>
+<image:loc>https://psychemy.github.io/gh_pages/media/posts/9/mix-tape-2023.jpg</image:loc>
+<image:title><![CDATA[Mix Tape]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://psychemy.github.io/gh_pages/media/posts/9/cassette-pet.jpg</image:loc>
+<image:title><![CDATA[Bow Wow Wow -Cassette Pet]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://psychemy.github.io/gh_pages/media/posts/9/gallery/mix-tape-2023-thumbnail.jpg</image:loc>
+<image:title><![CDATA[Mix Tape]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://psychemy.github.io/gh_pages/sky-high/</loc>
+<lastmod>2023-10-10T12:31:25+01:00</lastmod>
+<image:image>
+<image:loc>https://psychemy.github.io/gh_pages/media/posts/5/sky-high-2023-3.jpeg</image:loc>
+<image:title><![CDATA[Sky High! 39 x 60cm]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://psychemy.github.io/gh_pages/media/posts/5/gallery/sky-high-2023-thumbnail.jpeg</image:loc>
+<image:title><![CDATA[Sky High 39 x 60cm - Signed limited edition of 29]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://psychemy.github.io/gh_pages/tower-of-sound/</loc>
+<lastmod>2023-10-10T12:29:01+01:00</lastmod>
+<image:image>
+<image:loc>https://psychemy.github.io/gh_pages/media/posts/10/sony_walkman_TPS-L2-2.jpg</image:loc>
+<image:title><![CDATA[SONY]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://psychemy.github.io/gh_pages/media/posts/10/gallery/sony_walkman_TPS-L2-2-thumbnail.jpg</image:loc>
+<image:title><![CDATA[SONY Walkman TPS-L2]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://psychemy.github.io/gh_pages/web-design/</loc>
+<lastmod>2023-10-05T15:45:54+01:00</lastmod>
+</url>
+</urlset>
