@@ -1,3 +1,2 @@
 User-agent: *
-Disallow:
-Sitemap: https://psychemy.github.io/gh_pages/sitemap.xml
+Disallow: /
