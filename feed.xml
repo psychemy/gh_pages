@@ -3,7 +3,7 @@
     <title>psychemy.uk</title>
     <link href="https://psychemy.github.io/gh_pages/feed.xml" rel="self" />
     <link href="https://psychemy.github.io/gh_pages" />
-    <updated>2023-10-22T14:11:52+01:00</updated>
+    <updated>2023-10-22T14:26:09+01:00</updated>
     <author>
         <name>Simon Spiers</name>
     </author>
@@ -175,7 +175,7 @@
         <link href="https://psychemy.github.io/gh_pages/contact/"/>
         <id>https://psychemy.github.io/gh_pages/contact/</id>
 
-        <updated>2023-10-22T14:11:52+01:00</updated>
+        <updated>2023-10-22T14:26:09+01:00</updated>
             <summary>
                 <![CDATA[
                     Submit
@@ -183,7 +183,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                <form id="contactus" action="https://formsubmit.co/simon@psychemy.uk" method="POST"><input name="_template" type="hidden" value="table"> <input name="_captcha" type="hidden" value="false"> <input name="_next" type="hidden" value="https://psychemy.github.io/gh_pages/thank-you-message"> <input name="_subject" type="hidden" value="New Contact Form Message!"> <input style="display: none;" name="_honey" type="text">
+                <form id="contactus" action="https://formsubmit.co/ba300d14b7d78ba56b010abb13ce1835" method="POST"><input name="_template" type="hidden" value="table"> <input name="_captcha" type="hidden" value="false"> <input name="_next" type="hidden" value="https://psychemy.github.io/gh_pages/thank-you-message"> <input name="_subject" type="hidden" value="New Contact Form Message!"> <input style="display: none;" name="_honey" type="text">
 <p><input required="" type="text" placeholder="Name"></p>
 <p><input name="email" required="" type="email" placeholder="Email Address"></p>
 <p><textarea style="width: 100%;" name="message" required="" rows="10" placeholder="Message..."></textarea></p>
