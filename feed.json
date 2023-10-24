@@ -10,20 +10,6 @@
     },
     "items": [
         {
-            "id": "https://psychemy.github.io/gh_pages/thank-you-message/",
-            "url": "https://psychemy.github.io/gh_pages/thank-you-message/",
-            "title": "Thank You",
-            "summary": "Thank you for contacting Me. I will respond to your enquiry as soon as is possible. Regards, Simon.",
-            "content_html": "<p>Thank you for contacting Me. I will respond to your enquiry as soon as is possible.</p>\n<p>Regards, Simon.</p>",
-            "author": {
-                "name": "Simon Spiers"
-            },
-            "tags": [
-            ],
-            "date_published": "2023-10-22T14:07:52+01:00",
-            "date_modified": "2023-10-22T14:54:44+01:00"
-        },
-        {
             "id": "https://psychemy.github.io/gh_pages/falling-blocks/",
             "url": "https://psychemy.github.io/gh_pages/falling-blocks/",
             "title": "Falling Blocks",

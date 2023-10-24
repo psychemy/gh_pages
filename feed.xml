@@ -3,33 +3,12 @@
     <title>psychemy.uk</title>
     <link href="https://psychemy.github.io/gh_pages/feed.xml" rel="self" />
     <link href="https://psychemy.github.io/gh_pages" />
-    <updated>2023-10-22T14:54:44+01:00</updated>
+    <updated>2023-10-22T14:52:07+01:00</updated>
     <author>
         <name>Simon Spiers</name>
     </author>
     <id>https://psychemy.github.io/gh_pages</id>
 
-    <entry>
-        <title>Thank You</title>
-        <author>
-            <name>Simon Spiers</name>
-        </author>
-        <link href="https://psychemy.github.io/gh_pages/thank-you-message/"/>
-        <id>https://psychemy.github.io/gh_pages/thank-you-message/</id>
-
-        <updated>2023-10-22T14:54:44+01:00</updated>
-            <summary>
-                <![CDATA[
-                    Thank you for contacting Me. I will respond to your enquiry as soon as is possible. Regards, Simon.
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>Thank you for contacting Me. I will respond to your enquiry as soon as is possible.</p>
-<p>Regards, Simon.</p>
-            ]]>
-        </content>
-    </entry>
     <entry>
         <title>Falling Blocks</title>
         <author>
