@@ -1,558 +1,181 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-    <title>Portfolio</title>
-    <link href="https://colinmurrayartist.com/feed.xml" rel="self" />
-    <link href="https://colinmurrayartist.com" />
-    <updated>2023-10-24T10:31:33+01:00</updated>
+    <title>psychemy.uk</title>
+    <link href="https://psychemy.github.io/gh_pages/feed.xml" rel="self" />
+    <link href="https://psychemy.github.io/gh_pages" />
+    <updated>2023-10-22T14:54:44+01:00</updated>
     <author>
-        <name>Colin Murray</name>
+        <name>Simon Spiers</name>
     </author>
-    <id>https://colinmurrayartist.com</id>
+    <id>https://psychemy.github.io/gh_pages</id>
 
     <entry>
-        <title>Buy my Art</title>
+        <title>Thank You</title>
         <author>
-            <name>Colin Murray</name>
+            <name>Simon Spiers</name>
         </author>
-        <link href="https://colinmurrayartist.com/buy-my-art.html"/>
-        <id>https://colinmurrayartist.com/buy-my-art.html</id>
+        <link href="https://psychemy.github.io/gh_pages/thank-you-message/"/>
+        <id>https://psychemy.github.io/gh_pages/thank-you-message/</id>
 
-        <updated>2023-10-12T13:22:00+01:00</updated>
+        <updated>2023-10-22T14:54:44+01:00</updated>
             <summary>
                 <![CDATA[
-                    Most of the images on this website are for sale in one form or another, if you wish to purchase&hellip;
+                    Thank you for contacting Me. I will respond to your enquiry as soon as is possible. Regards, Simon.
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p class="dropcap">Most of the images on this website are for sale in one form or another, if you wish to purchase an original oil painting or order a Fine Art quality stretcher-framed canvas print prices start from £300. If you want to commission a picture, once again, prices begin at £300. If you want a simple image painted onto a garment prices begin at £200. The pictures in Recent and certain other paintings are not yet for sale.</p>
-<p style="text-align: center;"><a href="https://colinmurrayartist.com/contact-me.html" class="btn">Please contact me for more information.</a></p>
+                <p>Thank you for contacting Me. I will respond to your enquiry as soon as is possible.</p>
+<p>Regards, Simon.</p>
             ]]>
         </content>
     </entry>
     <entry>
-        <title>Recent</title>
+        <title>Falling Blocks</title>
         <author>
-            <name>Colin Murray</name>
+            <name>Simon Spiers</name>
         </author>
-        <link href="https://colinmurrayartist.com/recent.html"/>
-        <id>https://colinmurrayartist.com/recent.html</id>
-        <media:content url="https://colinmurrayartist.com/media/posts/2/alice.jpg" medium="image" />
+        <link href="https://psychemy.github.io/gh_pages/falling-blocks/"/>
+        <id>https://psychemy.github.io/gh_pages/falling-blocks/</id>
+        <media:content url="https://psychemy.github.io/gh_pages/media/posts/11/falling_blocks-2023.jpg" medium="image" />
+            <category term="Paper Cuts"/>
 
-        <updated>2023-10-12T11:36:34+01:00</updated>
+        <updated>2023-10-17T13:39:38+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://colinmurrayartist.com/media/posts/2/alice.jpg" alt="Alice and the Caterpillar – oil on canvas – 76 x 87 cm" />
-                    The pictures in this gallery are all items that I have worked on over the last two years. The paintings&hellip;
+                        <img src="https://psychemy.github.io/gh_pages/media/posts/11/falling_blocks-2023.jpg" alt="Falling Blocks" />
+                    The wonderful original hand held GameBoy brought computer gaming to the palm of your hand. Every GameBoy came bundled with a Tetris game&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://colinmurrayartist.com/media/posts/2/alice.jpg" class="type:primaryImage" alt="Alice and the Caterpillar – oil on canvas – 76 x 87 cm" /></p>
-                <blockquote>
-<p>The pictures in this gallery are all items that I have worked on over the last two years. The paintings featured here have been photographed by me and are not of the best quality, I will have better images soon.</p>
-</blockquote>
+                    <p><img src="https://psychemy.github.io/gh_pages/media/posts/11/falling_blocks-2023.jpg" class="type:primaryImage" alt="Falling Blocks" /></p>
+                <p>The wonderful original hand held GameBoy brought computer gaming to the palm of your hand. Every GameBoy came bundled with a Tetris game cartridge.</p>
 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
-<figure class="gallery__item"><a href="https://colinmurrayartist.com/media/posts/2/gallery/Alice-2023.jpg" data-size="2222x2560"><img decoding="async" loading="lazy" src="https://colinmurrayartist.com/media/posts/2/gallery/Alice-2023-thumbnail.jpg" alt="Alice and the Caterpillar – oil on canvas – 76 x 87 cm - 2023" width="768" height="885"></a>
-<figcaption>Alice and the Caterpillar – oil on canvas – 76 x 87 cm - 2023</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://colinmurrayartist.com/media/posts/2/gallery/Memento-Mori-low-res-2023.jpg" data-size="2560x1900"><img decoding="async" loading="lazy" src="https://colinmurrayartist.com/media/posts/2/gallery/Memento-Mori-low-res-2023-thumbnail.jpg" alt="Memento Mori – oil on canvas – 102 x 76 cm - 2023" width="768" height="570"></a>
-<figcaption>Memento Mori – oil on canvas – 102 x 76 cm - 2023</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://colinmurrayartist.com/media/posts/2/gallery/Angel.jpg" data-size="1708x2560"><img decoding="async" loading="lazy" src="https://colinmurrayartist.com/media/posts/2/gallery/Angel-thumbnail.jpg" alt="Angel - oil on canvas - 50 x 75 cm - 2023" width="768" height="1151"></a>
-<figcaption>Angel - oil on canvas - 50 x 75 cm - 2023</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://colinmurrayartist.com/media/posts/2/gallery/Triumph-of-Folly-2023.jpg" data-size="2560x1920"><img decoding="async" loading="lazy" src="https://colinmurrayartist.com/media/posts/2/gallery/Triumph-of-Folly-2023-thumbnail.jpg" alt="The Triumph of Folly (after Paul Rumsey) – oil on canvas – 102 x 76 cm - 2022" width="768" height="576"></a>
-<figcaption>The Triumph of Folly (after Paul Rumsey) – oil on canvas – 102 x 76 cm - 2022</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://colinmurrayartist.com/media/posts/2/gallery/Samel-Coleridge-Taylor-2023.jpg" data-size="2340x2560"><img decoding="async" loading="lazy" src="https://colinmurrayartist.com/media/posts/2/gallery/Samel-Coleridge-Taylor-2023-thumbnail.jpg" alt="Samuel Coleridge Taylor – oil on canvas – 55 x 60 cm - 2023" width="768" height="840"></a>
-<figcaption>Samuel Coleridge Taylor – oil on canvas – 55 x 60 cm - 2023</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://colinmurrayartist.com/media/posts/2/gallery/HitlerBuddha-2023-copy.jpg" data-size="2047x2560"><img decoding="async" loading="lazy" src="https://colinmurrayartist.com/media/posts/2/gallery/HitlerBuddha-2023-copy-thumbnail.jpg" alt="Hitler/Buddha - oil on canvas - 34 x 45 cm - 2021" width="768" height="960"></a>
-<figcaption>Hitler/Buddha - oil on canvas - 34 x 45 cm - 2021</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://colinmurrayartist.com/media/posts/2/gallery/Running.jpg" data-size="2560x2128"><img decoding="async" loading="lazy" src="https://colinmurrayartist.com/media/posts/2/gallery/Running-thumbnail.jpg" alt="Running Free - oil on canvas - 61 x51 cm - 2022" width="768" height="638"></a>
-<figcaption>Running Free - oil on canvas - 61 x51 cm - 2022</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://colinmurrayartist.com/media/posts/2/gallery/Wivenhoe-1-2023.jpg" data-size="2560x1675"><img decoding="async" loading="lazy" src="https://colinmurrayartist.com/media/posts/2/gallery/Wivenhoe-1-2023-thumbnail.jpg" alt="Wivenhoe nocturne - oil on canvas - 76 x 50 cm - 2021" width="768" height="503"></a>
-<figcaption>Wivenhoe nocturne - oil on canvas - 76 x 50 cm - 2021</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://colinmurrayartist.com/media/posts/2/gallery/Wivenhoe-2-2023.jpg" data-size="2560x1721"><img decoding="async" loading="lazy" src="https://colinmurrayartist.com/media/posts/2/gallery/Wivenhoe-2-2023-thumbnail.jpg" alt="Wivenhoe nocturne 2 - oil on canvas - 76 x 50 cm - 2021" width="768" height="516"></a>
-<figcaption>Wivenhoe nocturne 2 - oil on canvas - 76 x 50 cm - 2021</figcaption>
+<figure class="gallery__item"><a href="https://psychemy.github.io/gh_pages/media/posts/11/gallery/falling_blocks-2023.jpg" data-size="2268x2268"><img loading="lazy" src="https://psychemy.github.io/gh_pages/media/posts/11/gallery/falling_blocks-2023-thumbnail.jpg" alt="Falling Blocks" width="720" height="720"></a>
+<figcaption>Falling Blocks 60 x 60cm</figcaption>
 </figure>
 </div></div>
+<blockquote>
+<p>Paper-cut artworks are available as 'limited edition originals' hand cut by myself using naturally textured 45% cotton rag paper which is both light-fast and acid-free in rich deep dyed colours. They come framed in white or black. All frames are conservation standard with 40% UV protection.</p>
+</blockquote>
+<p>If you would like to purchase an original paper-cut...</p>
             ]]>
         </content>
     </entry>
     <entry>
-        <title>Fantasy</title>
+        <title>Tower of Sound</title>
         <author>
-            <name>Colin Murray</name>
+            <name>Simon Spiers</name>
         </author>
-        <link href="https://colinmurrayartist.com/fantasy.html"/>
-        <id>https://colinmurrayartist.com/fantasy.html</id>
-        <media:content url="https://colinmurrayartist.com/media/posts/3/The-Eternity-of-Life-2023-copy.jpg" medium="image" />
+        <link href="https://psychemy.github.io/gh_pages/tower-of-sound/"/>
+        <id>https://psychemy.github.io/gh_pages/tower-of-sound/</id>
+        <media:content url="https://psychemy.github.io/gh_pages/media/posts/10/sony_walkman-2023.jpg" medium="image" />
+            <category term="Paper Cuts"/>
 
-        <updated>2023-10-16T12:05:03+01:00</updated>
+        <updated>2023-10-17T17:26:52+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://colinmurrayartist.com/media/posts/3/The-Eternity-of-Life-2023-copy.jpg" alt="Eternity of Life – oil on panel - 45 x 61 cm" />
-                    This gallery features various pictures with elements of the fantastic. Orpheus playing to the Animals – oil on panel –&hellip;
+                        <img src="https://psychemy.github.io/gh_pages/media/posts/10/sony_walkman-2023.jpg" alt="SONY" />
+                    The iconic SONY Walkman TPS-L2 cassette player/recorder was the world's first low-cost personal stereo. Portable radios had come before, but you had to&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://colinmurrayartist.com/media/posts/3/The-Eternity-of-Life-2023-copy.jpg" class="type:primaryImage" alt="Eternity of Life – oil on panel - 45 x 61 cm" /></p>
-                <blockquote>
-<p>This gallery features various pictures with elements of the fantastic.</p>
+                    <p><img src="https://psychemy.github.io/gh_pages/media/posts/10/sony_walkman-2023.jpg" class="type:primaryImage" alt="SONY" /></p>
+                <p>The iconic SONY Walkman TPS-L2 cassette player/recorder was the world's first low-cost personal stereo. Portable radios had come before, but you had to listen to the DJ's choice of music. The Walkman let you strut your stuff to your favourite beats and brought vivid colour to life amongst the towering brutalist landscape of a 1980's London housing estate. Yes, we now have incredible power, storage and sound in a smart phone. But I miss that satisfying clunk as you inserted another cassette, followed by the tactile reassuring click of the play button and the whirring hiss as the machine sped its way to your favourite track to play again and again.</p>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3"><a href="https://psychemy.github.io/gh_pages/media/posts/10/gallery/sony_walkman-2023.jpg" data-size="2268x2268"><img loading="lazy" src="https://psychemy.github.io/gh_pages/media/posts/10/gallery/sony_walkman-2023-thumbnail.jpg" alt="SONY Walkman TPS-L2" width="720" height="720"></a>60 x 60cm - Signed limited edition of 29.</div></div>
+<blockquote>
+<p>Paper-cut artworks are available as 'limited edition originals' hand cut by myself using naturally textured 45% cotton rag paper which is both light-fast and acid-free in rich deep dyed colours. They come framed in white or black. All frames are conservation standard with 40% UV protection.</p>
 </blockquote>
-<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
-<figure class="gallery__item"><a href="https://colinmurrayartist.com/media/posts/3//gallery/orpheus_warm.jpg" data-size="1935x2560"><img decoding="async" loading="lazy" src="https://colinmurrayartist.com/media/posts/3//gallery/orpheus_warm-thumbnail.jpg" alt="Orpheus playing to the Animals – oil on panel – 76 x 100 cm - 1995" width="768" height="1016"></a>
-<figcaption>Orpheus playing to the Animals – oil on panel – 76 x 100 cm - 1995</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://colinmurrayartist.com/media/posts/3//gallery/art_collector.jpg" data-size="2560x1984"><img decoding="async" loading="lazy" src="https://colinmurrayartist.com/media/posts/3//gallery/art_collector-thumbnail.jpg" alt="The Art Collector – oil on canvas - 155 x 122 cm - 2015" width="768" height="595"></a>
-<figcaption>The Art Collector – oil on canvas - 155 x 122 cm - 2015</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://colinmurrayartist.com/media/posts/3/gallery/Owl-and-the-Pussycat-2023-copy.jpg" data-size="2560x1085"><img decoding="async" loading="lazy" src="https://colinmurrayartist.com/media/posts/3/gallery/Owl-and-the-Pussycat-2023-copy-thumbnail.jpg" alt="The Owl and the Pussycat – oil on canvas – 39 x 17 cm - 2012" width="768" height="326"></a>
-<figcaption>The Owl and the Pussycat – oil on canvas – 39 x 17 cm - 2012</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://colinmurrayartist.com/media/posts/3/gallery/Green-Man-2023-copy.jpg" data-size="2560x3146"><img decoding="async" loading="lazy" src="https://colinmurrayartist.com/media/posts/3/gallery/Green-Man-2023-copy-thumbnail.jpg" alt="The Green Man – oil on canvas - 49 x 60 cm -2018" width="768" height="944"></a>
-<figcaption>The Green Man – oil on canvas - 49 x 60 cm -2018</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://colinmurrayartist.com/media/posts/3/gallery/Animal_Butchers_Final-1-copy.jpg" data-size="2089x2560"><img decoding="async" loading="lazy" src="https://colinmurrayartist.com/media/posts/3/gallery/Animal_Butchers_Final-1-copy-thumbnail.jpg" alt="The Animal Butchers – oil on panel – 43 x 52 cm - 2005" width="768" height="941"></a>
-<figcaption>The Animal Butchers – oil on panel – 43 x 52 cm - 2005</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://colinmurrayartist.com/media/posts/3/gallery/The-Eternity-of-Life-2023-copy.jpg" data-size="1908x2560"><img decoding="async" loading="lazy" src="https://colinmurrayartist.com/media/posts/3/gallery/The-Eternity-of-Life-2023-copy-thumbnail.jpg" alt="The Eternity of Life – oil on panel – 45 x 61 cm - 2004" width="768" height="1030"></a>
-<figcaption>The Eternity of Life – oil on panel – 45 x 61 cm - 2004</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://colinmurrayartist.com/media/posts/3//gallery/buddha_of-the_lotus.jpg" data-size="1910x2560"><img decoding="async" loading="lazy" src="https://colinmurrayartist.com/media/posts/3//gallery/buddha_of-the_lotus-thumbnail.jpg" alt="The Buddha of the Lotus – 44 x 59 cm - 1998" width="768" height="1029"></a>
-<figcaption>The Buddha of the Lotus – 44 x 59 cm - 1998</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://colinmurrayartist.com/media/posts/3//gallery/lotus_flower.jpg" data-size="1905x2560"><img decoding="async" loading="lazy" src="https://colinmurrayartist.com/media/posts/3//gallery/lotus_flower-thumbnail.jpg" alt="Lotus Flower – oil on panel – 43 x 61 cm - 1997" width="768" height="1032"></a>
-<figcaption>Lotus Flower – oil on panel – 43 x 61 cm - 1997</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://colinmurrayartist.com/media/posts/3/gallery/Statue-with-banaanas.jpg" data-size="2560x1608"><img decoding="async" loading="lazy" src="https://colinmurrayartist.com/media/posts/3/gallery/Statue-with-banaanas-thumbnail.jpg" alt="Statue with Bananas - oil on panel - 58 x 36 cm - 2011" width="768" height="482"></a>
-<figcaption>Statue with Bananas - oil on panel - 58 x 36 cm - 2011</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://colinmurrayartist.com/media/posts/3/gallery/Mermaid-and-Dolphin-2023-copy.jpg" data-size="2560x2127"><img decoding="async" loading="lazy" src="https://colinmurrayartist.com/media/posts/3/gallery/Mermaid-and-Dolphin-2023-copy-thumbnail.jpg" alt="Mermaid and Dolphin – oil on canvas – 52 x 43 cm - 2010" width="768" height="638"></a>
-<figcaption>Mermaid and Dolphin – oil on canvas – 52 x 43 cm - 2010</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://colinmurrayartist.com/media/posts/3/gallery/Mermaid-and-fishes-2.jpg" data-size="3133x2560"><img decoding="async" loading="lazy" src="https://colinmurrayartist.com/media/posts/3/gallery/Mermaid-and-fishes-2-thumbnail.jpg" alt="Mermaid and Fishes – oil on canvas – 52 x 43 cm - 2010" width="768" height="628"></a>
-<figcaption>Mermaid and Fishes – oil on canvas – 52 x 43 cm - 2010</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://colinmurrayartist.com/media/posts/3/gallery/Black-Mermaid-lighter.jpg" data-size="2560x1837"><img decoding="async" loading="lazy" src="https://colinmurrayartist.com/media/posts/3/gallery/Black-Mermaid-lighter-thumbnail.jpg" alt="Mermaid - oil on canvas - 76 x 56 cm - 2006" width="768" height="551"></a>
-<figcaption>Mermaid - oil on canvas - 76 x 56 cm - 2006</figcaption>
-</figure>
-</div></div>
+<p>If you would like to purchase an original paper-cut...</p>
             ]]>
         </content>
     </entry>
     <entry>
-        <title>City &amp; Landscape</title>
+        <title>Mix Tape</title>
         <author>
-            <name>Colin Murray</name>
+            <name>Simon Spiers</name>
         </author>
-        <link href="https://colinmurrayartist.com/city-and-landscape.html"/>
-        <id>https://colinmurrayartist.com/city-and-landscape.html</id>
-        <media:content url="https://colinmurrayartist.com/media/posts/5/three_crowns.jpg" medium="image" />
+        <link href="https://psychemy.github.io/gh_pages/mix-tape/"/>
+        <id>https://psychemy.github.io/gh_pages/mix-tape/</id>
+        <media:content url="https://psychemy.github.io/gh_pages/media/posts/9/mix_tape-2023.jpg" medium="image" />
+            <category term="Paper Cuts"/>
 
-        <updated>2023-10-14T13:18:57+01:00</updated>
+        <updated>2023-10-17T13:19:54+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://colinmurrayartist.com/media/posts/5/three_crowns.jpg" alt="Three Crowns – oil on panel – 101 x 76" />
-                    A selection of the many landscapes and city subjects that I hve painted over the years. Some of these pictures&hellip;
+                        <img src="https://psychemy.github.io/gh_pages/media/posts/9/mix_tape-2023.jpg" alt="Mix Tape" />
+                    This paper-cut was inspired by the many hours spent as a teenager recording mix tapes off the John Peel radio show. Along with&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://colinmurrayartist.com/media/posts/5/three_crowns.jpg" class="type:primaryImage" alt="Three Crowns – oil on panel – 101 x 76" /></p>
-                <blockquote>
-<p>A selection of the many landscapes and city subjects that I hve painted over the years. Some of these pictures are painted from life and others have been composed using photographic references.</p>
-</blockquote>
-<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
-<figure class="gallery__item"><a href="https://colinmurrayartist.com/media/posts/5/gallery/All-Saints-2023-copy.jpg" data-size="2090x2560"><img decoding="async" loading="lazy" src="https://colinmurrayartist.com/media/posts/5/gallery/All-Saints-2023-copy-thumbnail.jpg" alt="All Saints – oil on canvas – 53 x 64 cm - 2015" width="768" height="941"></a>
-<figcaption>All Saints – oil on canvas – 53 x 64 cm - 2015</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://colinmurrayartist.com/media/posts/5/gallery/West-Wall-2023-copy.jpg" data-size="1926x2560"><img decoding="async" loading="lazy" src="https://colinmurrayartist.com/media/posts/5/gallery/West-Wall-2023-copy-thumbnail.jpg" alt="West Wall – oil on canvas – 76 x 99 - 2017" width="768" height="1021"></a>
-<figcaption>West Wall – oil on canvas – 76 x 99 - 2017</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://colinmurrayartist.com/media/posts/5/gallery/Birds-eye-view.-jpg.jpg" data-size="1542x2560"><img decoding="async" loading="lazy" src="https://colinmurrayartist.com/media/posts/5/gallery/Birds-eye-view.-jpg-thumbnail.jpg" alt="Bird's eye view - oil on canvas - 58 x 99 cm - 2017" width="768" height="1275"></a>
-<figcaption>Bird's eye view - oil on canvas - 58 x 99 cm - 2017</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://colinmurrayartist.com/media/posts/5/gallery/One-for-Sorrow-2023-copy.jpg" data-size="1559x2560"><img decoding="async" loading="lazy" src="https://colinmurrayartist.com/media/posts/5/gallery/One-for-Sorrow-2023-copy-thumbnail.jpg" alt="One for Sorrow – oil on canvas – 51 x 80 - 2016" width="768" height="1261"></a>
-<figcaption>One for Sorrow – oil on canvas – 51 x 80 - 2016</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://colinmurrayartist.com/media/posts/5/gallery/Two-for-Joy-2023-copy.jpg" data-size="1733x2560"><img decoding="async" loading="lazy" src="https://colinmurrayartist.com/media/posts/5/gallery/Two-for-Joy-2023-copy-thumbnail.jpg" alt="Two for Joy – oil on canvas – 51 x 75 - 2016" width="768" height="1134"></a>
-<figcaption>Two for Joy – oil on canvas – 51 x 75 - 2016</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://colinmurrayartist.com/media/posts/5/gallery/B6-2023-copy.jpg" data-size="2182x2560"><img decoding="async" loading="lazy" src="https://colinmurrayartist.com/media/posts/5/gallery/B6-2023-copy-thumbnail.jpg" alt="B6 Hackney College - oil on canvas - 51 x 58 cm - 2015" width="768" height="901"></a>
-<figcaption>B6 Hackney College - oil on canvas - 51 x 58 cm - 2015</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://colinmurrayartist.com/media/posts/5/gallery/Three-crowns-2023-copy.jpg" data-size="2560x2013"><img decoding="async" loading="lazy" src="https://colinmurrayartist.com/media/posts/5/gallery/Three-crowns-2023-copy-thumbnail.jpg" alt="Three Crowns – oil on panel – 101 x 76 - 1985" width="768" height="604"></a>
-<figcaption>Three Crowns – oil on panel – 101 x 76 - 1985</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://colinmurrayartist.com/media/posts/5/gallery/Tradex-Isle-of-Dogs-2023-copy.jpg" data-size="2560x2439"><img decoding="async" loading="lazy" src="https://colinmurrayartist.com/media/posts/5/gallery/Tradex-Isle-of-Dogs-2023-copy-thumbnail.jpg" alt="Tradex Isle of Dogs – oil on canvas – 91 x 86 - 2008" width="768" height="732"></a>
-<figcaption>Tradex Isle of Dogs – oil on canvas – 91 x 86 - 2008</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://colinmurrayartist.com/media/posts/5/gallery/Tradex-Minories-2023-copy.jpg" data-size="1957x2560"><img decoding="async" loading="lazy" src="https://colinmurrayartist.com/media/posts/5/gallery/Tradex-Minories-2023-copy-thumbnail.jpg" alt="Tradex Minories – oil on canvas – 71 x 101 - 2008" width="768" height="1005"></a>
-<figcaption>Tradex Minories – oil on canvas – 71 x 101 - 2008</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://colinmurrayartist.com/media/posts/5/gallery/An-Old-Skip-2023-copy.jpg" data-size="2560x2087"><img decoding="async" loading="lazy" src="https://colinmurrayartist.com/media/posts/5/gallery/An-Old-Skip-2023-copy-thumbnail.jpg" alt="An Old Skip - oil on panel - 61 x 74 cm - 74 x 61 cm - 1986" width="768" height="626"></a>
-<figcaption>An Old Skip - oil on panel - 61 x 74 cm - 74 x 61 cm - 1986</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://colinmurrayartist.com/media/posts/5/gallery/Ruined-Abbey-2023-copy.jpg" data-size="2035x2560"><img decoding="async" loading="lazy" src="https://colinmurrayartist.com/media/posts/5/gallery/Ruined-Abbey-2023-copy-thumbnail.jpg" alt="Ruined Abbey – oil on canvas – 61 x 76 - 1982" width="768" height="966"></a>
-<figcaption>Ruined Abbey – oil on canvas – 61 x 76 - 1982</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://colinmurrayartist.com/media/posts/5/gallery/Friday-Woods-2023-copy.jpg" data-size="2560x2032"><img decoding="async" loading="lazy" src="https://colinmurrayartist.com/media/posts/5/gallery/Friday-Woods-2023-copy-thumbnail.jpg" alt="Friday Woods –oil on panel – 122 x 91 cm - 1980" width="768" height="610"></a>
-<figcaption>Friday Woods –oil on panel – 122 x 91 cm - 1980</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://colinmurrayartist.com/media/posts/5/gallery/Elmstead_Farm_Final-1.jpg" data-size="2098x2560"><img decoding="async" loading="lazy" src="https://colinmurrayartist.com/media/posts/5/gallery/Elmstead_Farm_Final-1-thumbnail.jpg" alt="Elmstead Farm – oil on panel – 42 x 51 cm - 1988" width="768" height="937"></a>
-<figcaption>Elmstead Farm – oil on panel – 42 x 51 cm - 1988</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://colinmurrayartist.com/media/posts/5/gallery/Arlesford-Abbey-copy-2.jpg" data-size="2164x2560"><img decoding="async" loading="lazy" src="https://colinmurrayartist.com/media/posts/5/gallery/Arlesford-Abbey-copy-2-thumbnail.jpg" alt="Arlesford Abbey - oil on panel - 60 x 71 cm - 1985" width="768" height="909"></a>
-<figcaption>Arlesford Abbey - oil on panel - 60 x 71 cm - 1985</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://colinmurrayartist.com/media/posts/5/gallery/Tree-in-Fambridge.jpg" data-size="1868x2560"><img decoding="async" loading="lazy" src="https://colinmurrayartist.com/media/posts/5/gallery/Tree-in-Fambridge-thumbnail.jpg" alt="A Young Tree - oil on panel - 44 x 61 cm - 1986" width="768" height="1053"></a>
-<figcaption>A Young Tree - oil on panel - 44 x 61 cm - 1986</figcaption>
+                    <p><img src="https://psychemy.github.io/gh_pages/media/posts/9/mix_tape-2023.jpg" class="type:primaryImage" alt="Mix Tape" /></p>
+                <p>This paper-cut was inspired by the many hours spent as a teenager recording mix tapes off the John Peel radio show. Along with fond memories of the early 'Flip-Top-Box' packaged cassette-only releases by Bow Wow Wow.</p>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://psychemy.github.io/gh_pages/media/posts/9/cassette-pet.jpg" alt="Bow Wow Wow -Cassette Pet" width="30%" height="30%" sizes="(max-width: 48em) 100vw, 768px" srcset="https://psychemy.github.io/gh_pages/media/posts/9/responsive/cassette-pet-xs.jpg 300w ,https://psychemy.github.io/gh_pages/media/posts/9/responsive/cassette-pet-sm.jpg 480w ,https://psychemy.github.io/gh_pages/media/posts/9/responsive/cassette-pet-md.jpg 768w ,https://psychemy.github.io/gh_pages/media/posts/9/responsive/cassette-pet-lg.jpg 1024w ,https://psychemy.github.io/gh_pages/media/posts/9/responsive/cassette-pet-xl.jpg 1360w ,https://psychemy.github.io/gh_pages/media/posts/9/responsive/cassette-pet-2xl.jpg 1600w"></figure>
+<p>'C30 C60 C90 Go! Off the radio, I get a constant flow. Hit it, pause it, record it and play. Turn it, rewind and rub it away....'. Would you gift your valentine a 'playlist'?</p>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="1">
+<figure class="gallery__item"><a href="https://psychemy.github.io/gh_pages/media/posts/9/gallery/mix_tape-2023.jpg" data-size="2268x2268"><img loading="lazy" src="https://psychemy.github.io/gh_pages/media/posts/9/gallery/mix_tape-2023-thumbnail.jpg" alt="Mix Tape" width="720" height="720"></a>
+<figcaption>60 x 60cm - Signed limited edition of 29.</figcaption>
 </figure>
 </div></div>
+<blockquote>
+<p>Paper-cut artworks are available as 'limited edition originals' hand cut by myself using naturally textured 45% cotton rag paper which is both light-fast and acid-free in rich deep dyed colours. They come framed in white or black. All frames are conservation standard with 40% UV protection, with higher UV protection available upon request.</p>
+</blockquote>
+<p>If you would like to purchase an original paper-cut...</p>
             ]]>
         </content>
     </entry>
     <entry>
-        <title>Abney Park</title>
+        <title>Biography</title>
         <author>
-            <name>Colin Murray</name>
+            <name>Simon Spiers</name>
         </author>
-        <link href="https://colinmurrayartist.com/abney-park.html"/>
-        <id>https://colinmurrayartist.com/abney-park.html</id>
-        <media:content url="https://colinmurrayartist.com/media/posts/6/rising_mist.jpg" medium="image" />
+        <link href="https://psychemy.github.io/gh_pages/biography/"/>
+        <id>https://psychemy.github.io/gh_pages/biography/</id>
 
-        <updated>2023-10-12T11:45:07+01:00</updated>
+        <updated>2023-10-05T15:48:41+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://colinmurrayartist.com/media/posts/6/rising_mist.jpg" alt="Rising Mist – oil on canvas – 101 x 76 cm" />
-                    I live near Abney Park, a rambling overgrown Victorian cemetery, which has always fascinated me. All of these pictures with&hellip;
+                    Personal stuff goes here.
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://colinmurrayartist.com/media/posts/6/rising_mist.jpg" class="type:primaryImage" alt="Rising Mist – oil on canvas – 101 x 76 cm" /></p>
-                <blockquote>
-<p>I live near Abney Park, a rambling overgrown Victorian cemetery, which has always fascinated me. All of these pictures with the exception of  'A Dead Tree' have been composed using various photographic references.</p>
-</blockquote>
-<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
-<figure class="gallery__item"><a href="https://colinmurrayartist.com/media/posts/6/gallery/cirrus_minor-2.jpg" data-size="2560x1680"><img decoding="async" loading="lazy" src="https://colinmurrayartist.com/media/posts/6/gallery/cirrus_minor-2-thumbnail.jpg" alt="Cirrus Minor – oil on canvas – 91 x 61 cm - 1984" width="768" height="504"></a>
-<figcaption>Cirrus Minor – oil on canvas – 91 x 61 cm - 1984</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://colinmurrayartist.com/media/posts/6/gallery/melting_snow-2.jpg" data-size="2092x2560"><img decoding="async" loading="lazy" src="https://colinmurrayartist.com/media/posts/6/gallery/melting_snow-2-thumbnail.jpg" alt="Melting Snow – oil on panel – 58 x 76 cm - 1985" width="768" height="940"></a>
-<figcaption>Melting Snow – oil on panel – 58 x 76 cm - 1985</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://colinmurrayartist.com/media/posts/6/gallery/rising_mist.jpg" data-size="2560x2127"><img decoding="async" loading="lazy" src="https://colinmurrayartist.com/media/posts/6/gallery/rising_mist-thumbnail.jpg" alt="Rising Mist – oil on canvas – 101 x 76 cm - 2018" width="768" height="638"></a>
-<figcaption>Rising Mist – oil on canvas – 101 x 76 cm - 2018</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://colinmurrayartist.com/media/posts/6/gallery/under_heavy_snow-2.jpg" data-size="2560x2583"><img decoding="async" loading="lazy" src="https://colinmurrayartist.com/media/posts/6/gallery/under_heavy_snow-2-thumbnail.jpg" alt="Heavy Snow – oil on panel – 122 x 122 cm - 1982" width="768" height="775"></a>
-<figcaption>Heavy Snow – oil on panel – 122 x 122 cm - 1982</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://colinmurrayartist.com/media/posts/6/gallery/dead_tree.jpg" data-size="1860x2560"><img decoding="async" loading="lazy" src="https://colinmurrayartist.com/media/posts/6/gallery/dead_tree-thumbnail.jpg" alt="A Dead Tree – oil on panel – 41 x 51 cm - 1980" width="768" height="1057"></a>
-<figcaption>A Dead Tree – oil on panel – 41 x 51 cm - 1980</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://colinmurrayartist.com/media/posts/6/gallery/after_the_floods_warm.jpg" data-size="2560x1963"><img decoding="async" loading="lazy" src="https://colinmurrayartist.com/media/posts/6/gallery/after_the_floods_warm-thumbnail.jpg" alt="After the Floods Warm – oil on canvas – 101 x 76 cm - 1996" width="768" height="589"></a>
-<figcaption>After the Floods Warm – oil on canvas – 101 x 76 cm - 1996</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://colinmurrayartist.com/media/posts/6/gallery/after_the_floods.jpg" data-size="2560x2000"><img decoding="async" loading="lazy" src="https://colinmurrayartist.com/media/posts/6/gallery/after_the_floods-thumbnail.jpg" alt="" width="768" height="600"></a></figure>
-</div></div>
+                <p>Personal stuff goes here.</p>
             ]]>
         </content>
     </entry>
     <entry>
-        <title>Portraits</title>
+        <title>Web Design</title>
         <author>
-            <name>Colin Murray</name>
+            <name>Simon Spiers</name>
         </author>
-        <link href="https://colinmurrayartist.com/portraits.html"/>
-        <id>https://colinmurrayartist.com/portraits.html</id>
-        <media:content url="https://colinmurrayartist.com/media/posts/4/T-J-2023-copy.jpg" medium="image" />
+        <link href="https://psychemy.github.io/gh_pages/web-design/"/>
+        <id>https://psychemy.github.io/gh_pages/web-design/</id>
 
-        <updated>2023-10-16T11:30:48+01:00</updated>
+        <updated>2023-10-05T15:45:54+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://colinmurrayartist.com/media/posts/4/T-J-2023-copy.jpg" alt="T J - oil on panel - 51 x 61 cm" />
-                    I have painted numerous portraits over the years including many commissions. Most of these pictures have been painted from life&hellip;
+                    Website screenshots and links..
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://colinmurrayartist.com/media/posts/4/T-J-2023-copy.jpg" class="type:primaryImage" alt="T J - oil on panel - 51 x 61 cm" /></p>
-                <blockquote>
-<p>I have painted numerous portraits over the years including many commissions. Most of these pictures have been painted  from life with photographic references to help with working out the backgrounds.</p>
-</blockquote>
-<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
-<figure class="gallery__item"><a href="https://colinmurrayartist.com/media/posts/4/gallery/Cookie-2023-copy.jpg" data-size="1408x2560"><img decoding="async" loading="lazy" src="https://colinmurrayartist.com/media/posts/4/gallery/Cookie-2023-copy-thumbnail.jpg" alt="Cookie – oil on canvas – 61 x 111 cm - 2017" width="768" height="1396"></a>
-<figcaption>Cookie – oil on canvas – 61 x 111 cm - 2017</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://colinmurrayartist.com/media/posts/4/gallery/Pam-2023-copy.jpg" data-size="1858x2560"><img decoding="async" loading="lazy" src="https://colinmurrayartist.com/media/posts/4/gallery/Pam-2023-copy-thumbnail.jpg" alt="Pam – oil on canvas – 81 x 112 cm - 2012" width="768" height="1058"></a>
-<figcaption>Pam – oil on canvas – 81 x 112 cm - 2012</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://colinmurrayartist.com/media/posts/4/gallery/Jo-and-Sam-Sept-2023.jpg" data-size="2057x2560"><img decoding="async" loading="lazy" src="https://colinmurrayartist.com/media/posts/4/gallery/Jo-and-Sam-Sept-2023-thumbnail.jpg" alt="Jo and Sam – oil on canvas – 58 x 79 cm - 2005" width="768" height="956"></a>
-<figcaption>Jo and Sam – oil on canvas – 58 x 79 cm - 2005</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://colinmurrayartist.com/media/posts/4/gallery/T-J-2023-copy.jpg" data-size="2165x2560"><img decoding="async" loading="lazy" src="https://colinmurrayartist.com/media/posts/4/gallery/T-J-2023-copy-thumbnail.jpg" alt="T J – oil on panel – 51 x 61 cm - 2004" width="768" height="908"></a>
-<figcaption>T J – oil on panel – 51 x 61 cm - 2004</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://colinmurrayartist.com/media/posts/4/gallery/Jack-Crompton-2023-copy.jpg" data-size="1839x2560"><img decoding="async" loading="lazy" src="https://colinmurrayartist.com/media/posts/4/gallery/Jack-Crompton-2023-copy-thumbnail.jpg" alt="Jack – oil on panel – 35 x 41 cm - 1999" width="768" height="1069"></a>
-<figcaption>Jack – oil on panel – 35 x 41 cm - 1999</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://colinmurrayartist.com/media/posts/4/gallery/Jungle-Jim-2023-copy.jpg" data-size="2560x2524"><img decoding="async" loading="lazy" src="https://colinmurrayartist.com/media/posts/4/gallery/Jungle-Jim-2023-copy-thumbnail.jpg" alt="Jungle Jim – oil on panel – 53 x 53 cm - 2002" width="768" height="757"></a>
-<figcaption>Jungle Jim – oil on panel – 53 x 53 cm - 2002</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://colinmurrayartist.com/media/posts/4/gallery/Roger-the-Dodger.jpg" data-size="2560x2531"><img decoding="async" loading="lazy" src="https://colinmurrayartist.com/media/posts/4/gallery/Roger-the-Dodger-thumbnail.jpg" alt="Roger the Dodger - oil on panel - 61 x 61 cm - 2004" width="768" height="759"></a>
-<figcaption>Roger the Dodger - oil on panel - 61 x 61 cm - 2004</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://colinmurrayartist.com/media/posts/4/gallery/Amie-hand-Frosty-2023-copy.jpg" data-size="1973x2560"><img decoding="async" loading="lazy" src="https://colinmurrayartist.com/media/posts/4/gallery/Amie-hand-Frosty-2023-copy-thumbnail.jpg" alt="Amie – oil on canvas – 42 x 56 cm - 2001" width="768" height="996"></a>
-<figcaption>Amie – oil on canvas – 42 x 56 cm - 2001</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://colinmurrayartist.com/media/posts/4/gallery/Sue-2023-copy.jpg" data-size="2294x2560"><img decoding="async" loading="lazy" src="https://colinmurrayartist.com/media/posts/4/gallery/Sue-2023-copy-thumbnail.jpg" alt="Sue – oil on panel – 39 x 42 cm - 1998" width="768" height="857"></a>
-<figcaption>Sue – oil on panel – 39 x 42 cm - 1998</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://colinmurrayartist.com/media/posts/4/gallery/Cynthia-2023-copy.jpg" data-size="1936x2560"><img decoding="async" loading="lazy" src="https://colinmurrayartist.com/media/posts/4/gallery/Cynthia-2023-copy-thumbnail.jpg" alt="Cynthia – oil on canvas – 35 x 46 cm - 2014" width="768" height="1016"></a>
-<figcaption>Cynthia – oil on canvas – 35 x 46 cm - 2014</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://colinmurrayartist.com/media/posts/4/gallery/Ben-2023-copy.jpg" data-size="1557x2560"><img decoding="async" loading="lazy" src="https://colinmurrayartist.com/media/posts/4/gallery/Ben-2023-copy-thumbnail.jpg" alt="Ben – oil on panel – 81 x 137 cm - 2002" width="768" height="1263"></a>
-<figcaption>Ben – oil on panel – 81 x 137 cm - 2002</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://colinmurrayartist.com/media/posts/4/gallery/Martha-low-re-2023.jpg" data-size="2071x2560"><img decoding="async" loading="lazy" src="https://colinmurrayartist.com/media/posts/4/gallery/Martha-low-re-2023-thumbnail.jpg" alt="Martha – oil on panel – 41 x 51 cm - 1993" width="768" height="949"></a>
-<figcaption>Martha – oil on panel – 41 x 51 cm - 1993</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://colinmurrayartist.com/media/posts/4/gallery/Ross-2023-copy.jpg" data-size="2147x2560"><img decoding="async" loading="lazy" src="https://colinmurrayartist.com/media/posts/4/gallery/Ross-2023-copy-thumbnail.jpg" alt="Ross - oil on canvas - 51 x 61 cm" width="768" height="916"></a>
-<figcaption>Ross - oil on canvas - 51 x 61 cm</figcaption>
-</figure>
-</div></div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Self Portrait</title>
-        <author>
-            <name>Colin Murray</name>
-        </author>
-        <link href="https://colinmurrayartist.com/self-portrait.html"/>
-        <id>https://colinmurrayartist.com/self-portrait.html</id>
-        <media:content url="https://colinmurrayartist.com/media/posts/9/sp_holding_lilly.jpg" medium="image" />
-
-        <updated>2023-10-14T13:16:01+01:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://colinmurrayartist.com/media/posts/9/sp_holding_lilly.jpg" alt="Self-portrait holding a lily – oil on panel – 41 x 71 cm" />
-                    I've painted many self portraits over the years. Self Portrait holding a lily – oil on panel – 41 x&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://colinmurrayartist.com/media/posts/9/sp_holding_lilly.jpg" class="type:primaryImage" alt="Self-portrait holding a lily – oil on panel – 41 x 71 cm" /></p>
-                <blockquote>
-<p>I've painted many self portraits over the years. </p>
-</blockquote>
-<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
-<figure class="gallery__item"><a href="https://colinmurrayartist.com/media/posts/9/gallery/SP-holding-a-lily-2023.jpg" data-size="2560x4509"><img decoding="async" loading="lazy" src="https://colinmurrayartist.com/media/posts/9/gallery/SP-holding-a-lily-2023-thumbnail.jpg" alt="Self  Portrait holding a lily – oil on panel – 41 x 71 cm - 2005" width="768" height="1353"></a>
-<figcaption>Self Portrait holding a lily – oil on panel – 41 x 71 cm - 2005</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://colinmurrayartist.com/media/posts/9/gallery/SP-double-portrait-2023-2.jpg" data-size="2560x1512"><img decoding="async" loading="lazy" src="https://colinmurrayartist.com/media/posts/9/gallery/SP-double-portrait-2023-2-thumbnail.jpg" alt="Double Self Portrait 2021 - oil on canvas - 84 x 51 cm - 2021" width="768" height="454"></a>
-<figcaption>Double Self Portrait 2021 - oil on canvas - 84 x 51 cm - 2021</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://colinmurrayartist.com/media/posts/9/gallery/SP-with-books-copy.jpg" data-size="1439x2560"><img decoding="async" loading="lazy" src="https://colinmurrayartist.com/media/posts/9/gallery/SP-with-books-copy-thumbnail.jpg" alt="Self Portrait with books - oil on panel - 37 x 66 cm - 2002" width="768" height="1366"></a>
-<figcaption>Self Portrait with books - oil on panel - 37 x 66 cm - 2002</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://colinmurrayartist.com/media/posts/9/gallery/SP-smiling.jpg" data-size="1080x1101"><img decoding="async" loading="lazy" src="https://colinmurrayartist.com/media/posts/9/gallery/SP-smiling-thumbnail.jpg" alt="Self Portrait smiling – oil on panel – 61 x 61 cm - 2000" width="768" height="783"></a>
-<figcaption>Self Portrait smiling – oil on panel – 61 x 61 cm - 2000</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://colinmurrayartist.com/media/posts/9/gallery/SP-wearing-a-raincoat.jpg" data-size="959x1306"><img decoding="async" loading="lazy" src="https://colinmurrayartist.com/media/posts/9/gallery/SP-wearing-a-raincoat-thumbnail.jpg" alt="Self Portrait wearing a raincoat - oil on canvas - 56 x 76 cm - 1994" width="768" height="1046"></a>
-<figcaption>Self Portrait wearing a raincoat - oil on canvas - 56 x 76 cm - 1994</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://colinmurrayartist.com/media/posts/9/gallery/SP-seated-at-easel.jpg" data-size="990x1460"><img decoding="async" loading="lazy" src="https://colinmurrayartist.com/media/posts/9/gallery/SP-seated-at-easel-thumbnail.jpg" alt="Self Portrait seated at an easel - oil on canvas - 72 x 81 cm - 1994" width="768" height="1133"></a>
-<figcaption>Self Portrait seated at an easel - oil on canvas - 72 x 81 cm - 1994</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://colinmurrayartist.com/media/posts/9/gallery/SP-at-Middlesex.jpg" data-size="883x1377"><img decoding="async" loading="lazy" src="https://colinmurrayartist.com/media/posts/9/gallery/SP-at-Middlesex-thumbnail.jpg" alt="Self Portrait - oil on panel - 35 x 55 cm - 1994" width="768" height="1198"></a>
-<figcaption>Self Portrait - oil on panel - 35 x 55 cm - 1994</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://colinmurrayartist.com/media/posts/9/gallery/sp_wearing_glasses.jpg" data-size="2049x2560"><img decoding="async" loading="lazy" src="https://colinmurrayartist.com/media/posts/9/gallery/sp_wearing_glasses-thumbnail.jpg" alt="Self Portrait wearing glasses – oil on panel - 40 x 46 cm - 1998" width="768" height="960"></a>
-<figcaption>Self Portrait wearing glasses – oil on panel - 40 x 46 cm - 1998</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://colinmurrayartist.com/media/posts/9/gallery/Drawing-SPs-on-red-tinted-paper.jpg" data-size="873x1043"><img decoding="async" loading="lazy" src="https://colinmurrayartist.com/media/posts/9/gallery/Drawing-SPs-on-red-tinted-paper-thumbnail.jpg" alt="Self Portraits - coloured pencil on tinted paper - 46 x 55 cm - 1998" width="768" height="918"></a>
-<figcaption>Self Portraits - coloured pencil on tinted paper - 46 x 55 cm - 1998</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://colinmurrayartist.com/media/posts/9/gallery/Drawing-SP-wearing-a-cap-2.jpg" data-size="1074x1238"><img decoding="async" loading="lazy" src="https://colinmurrayartist.com/media/posts/9/gallery/Drawing-SP-wearing-a-cap-2-thumbnail.jpg" alt="Self Portrait - chalk on tinted paper - 23 x 34 cm - 1995" width="768" height="885"></a>
-<figcaption>Self Portrait - chalk on tinted paper - 23 x 34 cm - 1995</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://colinmurrayartist.com/media/posts/9/gallery/Drawing-SP-wearing-a-cap-3.jpg" data-size="1035x1247"><img decoding="async" loading="lazy" src="https://colinmurrayartist.com/media/posts/9/gallery/Drawing-SP-wearing-a-cap-3-thumbnail.jpg" alt="Self Portrait - pencil on tinted paper - 23 x 34 cm - 1995" width="768" height="925"></a>
-<figcaption>Self Portrait - chalk on tinted paper - 23 x 34 cm - 1995</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://colinmurrayartist.com/media/posts/9/gallery/SP-wearing-cap-blue-paper.jpg" data-size="2099x2560"><img decoding="async" loading="lazy" src="https://colinmurrayartist.com/media/posts/9/gallery/SP-wearing-cap-blue-paper-thumbnail.jpg" alt="Self Portrait - pencil on blue paper - 25 x 30 cm" width="768" height="937"></a>
-<figcaption>Self Portrait - pencil on blue paper - 25 x 30 cm</figcaption>
-</figure>
-</div></div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Miscellaneous</title>
-        <author>
-            <name>Colin Murray</name>
-        </author>
-        <link href="https://colinmurrayartist.com/miscellaneous.html"/>
-        <id>https://colinmurrayartist.com/miscellaneous.html</id>
-        <media:content url="https://colinmurrayartist.com/media/posts/8/Remake-Christ-mocked.jpg" medium="image" />
-
-        <updated>2023-10-16T12:03:37+01:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://colinmurrayartist.com/media/posts/8/Remake-Christ-mocked.jpg" alt="Reconstruction – oil on canvas - 78 x 91 cm" />
-                    This gallery contains a variety of pictures both old and new, including a few of my drawings. Butsudan – oil&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://colinmurrayartist.com/media/posts/8/Remake-Christ-mocked.jpg" class="type:primaryImage" alt="Reconstruction – oil on canvas - 78 x 91 cm" /></p>
-                <blockquote>
-<p>This gallery contains a variety of pictures both old and new, including a few of my drawings. </p>
-</blockquote>
-<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
-<figure class="gallery__item"><a href="https://colinmurrayartist.com/media/posts/8/gallery/Butsudan-2023.jpg" data-size="2560x3748"><img decoding="async" loading="lazy" src="https://colinmurrayartist.com/media/posts/8/gallery/Butsudan-2023-thumbnail.jpg" alt="Butsudan – oil on panel – 61 x 86 cm - 1995" width="768" height="1124"></a>
-<figcaption>Butsudan – oil on panel – 61 x 86 cm - 1995</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://colinmurrayartist.com/media/posts/8/gallery/Still-life-with-Guinness-2023-copy.jpg" data-size="2560x1784"><img decoding="async" loading="lazy" src="https://colinmurrayartist.com/media/posts/8/gallery/Still-life-with-Guinness-2023-copy-thumbnail.jpg" alt="Still life with Guinness – oil on panel – 71 x 51 cm - 2005" width="768" height="535"></a>
-<figcaption>Still life with Guinness – oil on panel – 71 x 51 cm - 2005</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://colinmurrayartist.com/media/posts/8/gallery/Candles-and-Fruit.jpg" data-size="1685x2560"><img decoding="async" loading="lazy" src="https://colinmurrayartist.com/media/posts/8/gallery/Candles-and-Fruit-thumbnail.jpg" alt="Candles and fruit - oil on panel - 46 x 68 cm - 1994" width="768" height="1167"></a>
-<figcaption>Candles and fruit - oil on panel - 46 x 68 cm - 1994</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://colinmurrayartist.com/media/posts/8/gallery/Remake-Christ-mocked.jpg" data-size="2180x2560"><img decoding="async" loading="lazy" src="https://colinmurrayartist.com/media/posts/8/gallery/Remake-Christ-mocked-thumbnail.jpg" alt="Reconstruction - oil on canvas - 78 x 91 cm - 1994" width="768" height="902"></a>
-<figcaption>Reconstruction - oil on canvas - 78 x 91 cm - 1994</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://colinmurrayartist.com/media/posts/8/gallery/Drawing-for-Rennactment.jpg" data-size="1681x2560"><img decoding="async" loading="lazy" src="https://colinmurrayartist.com/media/posts/8/gallery/Drawing-for-Rennactment-thumbnail.jpg" alt="Study for Reconstruction - pencil on tinted paper - 49 x 65 cm - 1994" width="768" height="1170"></a>
-<figcaption>Study for Reconstruction - pencil on tinted paper - 49 x 65 cm - 1994</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://colinmurrayartist.com/media/posts/8/gallery/Female-nude-drawing-2023-copy.jpg" data-size="2113x2560"><img decoding="async" loading="lazy" src="https://colinmurrayartist.com/media/posts/8/gallery/Female-nude-drawing-2023-copy-thumbnail.jpg" alt="Drawing female nude - pencil on tinted paper - 40 x 60 cm - 1994" width="768" height="930"></a>
-<figcaption>Drawing female nude - pencil on tinted paper - 40 x 60 cm - 1994</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://colinmurrayartist.com/media/posts/8/gallery/Wave-2023.jpg" data-size="2560x2042"><img decoding="async" loading="lazy" src="https://colinmurrayartist.com/media/posts/8/gallery/Wave-2023-thumbnail.jpg" alt="Wave (after G Seignac) - oil on canvas – 51 x 41 cm - 2015" width="768" height="613"></a>
-<figcaption>Wave (after G Seignac) - oil on canvas – 51 x 41 cm - 2015</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://colinmurrayartist.com/media/posts/8/gallery/Wave-2-2023.jpg" data-size="2560x2051"><img decoding="async" loading="lazy" src="https://colinmurrayartist.com/media/posts/8/gallery/Wave-2-2023-thumbnail.jpg" alt="Wave 2 (after G Seignac) - oil on canvas - 51 x 41 cm - 2015" width="768" height="615"></a>
-<figcaption>Wave 2 (after G Seignac) - oil on canvas - 51 x 41 cm - 2015</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://colinmurrayartist.com/media/posts/8/gallery/Night.-2023-copy.jpg" data-size="2560x2040"><img decoding="async" loading="lazy" src="https://colinmurrayartist.com/media/posts/8/gallery/Night.-2023-copy-thumbnail.jpg" alt="Night (after A Raynaud) – oil on canvas - 51 x 41 cm - 2015" width="768" height="612"></a>
-<figcaption>Night (after A Raynaud) – oil on canvas - 51 x 41 cm - 2015</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://colinmurrayartist.com/media/posts/8/gallery/Roaring-Lions-2023-copy.jpg" data-size="2046x2560"><img decoding="async" loading="lazy" src="https://colinmurrayartist.com/media/posts/8/gallery/Roaring-Lions-2023-copy-thumbnail.jpg" alt="Roaring Lions - oil on canvas - 50 x 60 cm 2014" width="768" height="961"></a>
-<figcaption>Roaring Lions - oil on canvas - 50 x 60 cm 2014</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://colinmurrayartist.com/media/posts/8/gallery/Sunbathing-2023.jpg" data-size="2560x1481"><img decoding="async" loading="lazy" src="https://colinmurrayartist.com/media/posts/8/gallery/Sunbathing-2023-thumbnail.jpg" alt="Sunbathing - framed canvas print - 41 x 24 cm - 2014" width="768" height="444"></a>
-<figcaption>Sunbathing - framed canvas print - 41 x 24 cm - 2014</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://colinmurrayartist.com/media/posts/8/gallery/Dryads-2023-copy.jpg" data-size="1931x2560"><img decoding="async" loading="lazy" src="https://colinmurrayartist.com/media/posts/8/gallery/Dryads-2023-copy-thumbnail.jpg" alt="Dryads - oil on canvas - 46 x 61 cm - 2014" width="768" height="1018"></a>
-<figcaption>Dryads - oil on canvas - 46 x 61 cm - 2014</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://colinmurrayartist.com/media/posts/8/gallery/Death-and-the-Maiden-2023-2.jpg" data-size="2380x2560"><img decoding="async" loading="lazy" src="https://colinmurrayartist.com/media/posts/8/gallery/Death-and-the-Maiden-2023-2-thumbnail.jpg" alt="What shall I wear - oil on canvas - 56 61 cm - 2015" width="768" height="826"></a>
-<figcaption>What shall I wear? - oil on canvas - 56 61 cm - 2015</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://colinmurrayartist.com/media/posts/8/gallery/Lane.jpg" data-size="2560x2751"><img decoding="async" loading="lazy" src="https://colinmurrayartist.com/media/posts/8/gallery/Lane-thumbnail.jpg" alt="Lana - pencil on tinted paper - 35 x 35 cm" width="768" height="825"></a>
-<figcaption>Lana - pencil on tinted paper - 35 x 35 cm</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://colinmurrayartist.com/media/posts/8/gallery/Dave-double.jpg" data-size="2560x1760"><img decoding="async" loading="lazy" src="https://colinmurrayartist.com/media/posts/8/gallery/Dave-double-thumbnail.jpg" alt="Dave - pencil on tinted paper - 50 x 51 cm" width="768" height="528"></a>
-<figcaption>Dave - pencil on tinted paper - 50 x 51 cm</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://colinmurrayartist.com/media/posts/8/gallery/Drawing-of-Carrina.jpg" data-size="1920x2560"><img decoding="async" loading="lazy" src="https://colinmurrayartist.com/media/posts/8/gallery/Drawing-of-Carrina-thumbnail.jpg" alt="Carinna - pencil on tinted paper - 31 x 38 cm" width="768" height="1024"></a>
-<figcaption>Carinna - pencil on tinted paper - 31 x 38 cm</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://colinmurrayartist.com/media/posts/8/gallery/Alon.jpg" data-size="1414x2560"><img decoding="async" loading="lazy" src="https://colinmurrayartist.com/media/posts/8/gallery/Alon-thumbnail.jpg" alt="Alon - pencil on tinted paper - 23 x 41 cm" width="768" height="1390"></a>
-<figcaption>Alon - pencil on tinted paper - 23 x 41 cm</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://colinmurrayartist.com/media/posts/8/gallery/seated-woman-facing-right.jpg" data-size="1852x2560"><img decoding="async" loading="lazy" src="https://colinmurrayartist.com/media/posts/8/gallery/seated-woman-facing-right-thumbnail.jpg" alt="Sue - pencil on tinted paper - 60 x 45 cm" width="768" height="1062"></a>
-<figcaption>Sue - pencil on tinted paper - 60 x 45 cm</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://colinmurrayartist.com/media/posts/8/gallery/Jack.jpg" data-size="1965x2560"><img decoding="async" loading="lazy" src="https://colinmurrayartist.com/media/posts/8/gallery/Jack-thumbnail.jpg" alt="Jack - pencil on tinted paper - 30 x 33 cm" width="768" height="1001"></a>
-<figcaption>Jack - pencil on tinted paper - 30 x 33 cm</figcaption>
-</figure>
-</div></div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Fabric Painting</title>
-        <author>
-            <name>Colin Murray</name>
-        </author>
-        <link href="https://colinmurrayartist.com/fabric-painting.html"/>
-        <id>https://colinmurrayartist.com/fabric-painting.html</id>
-        <media:content url="https://colinmurrayartist.com/media/posts/7/bob_marley.jpg" medium="image" />
-
-        <updated>2023-10-14T13:17:13+01:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://colinmurrayartist.com/media/posts/7/bob_marley.jpg" alt="Bob Marley" />
-                    Most of the images in this gallery are painted onto T shirts using Pebeo fabric paint. Many of the subjects&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://colinmurrayartist.com/media/posts/7/bob_marley.jpg" class="type:primaryImage" alt="Bob Marley" /></p>
-                <blockquote>
-<p>Most of the images in this gallery are painted onto T shirts using Pebeo fabric paint. Many of the subjects reflect my interest in reggae music.</p>
-</blockquote>
-<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
-<figure class="gallery__item"><a href="https://colinmurrayartist.com/media/posts/7/gallery/Prince-Jazzbo-T-shirt-2023.jpg" data-size="2112x2560"><img decoding="async" loading="lazy" src="https://colinmurrayartist.com/media/posts/7/gallery/Prince-Jazzbo-T-shirt-2023-thumbnail.jpg" alt="Prince Jazzbo - hand painted T shirt - fabric paint - 2018" width="768" height="931"></a>
-<figcaption>Prince Jazzbo - hand painted T shirt - fabric paint - 2018</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://colinmurrayartist.com/media/posts/7/gallery/Big-Youth-T-shirt-2023.jpg" data-size="1851x2560"><img decoding="async" loading="lazy" src="https://colinmurrayartist.com/media/posts/7/gallery/Big-Youth-T-shirt-2023-thumbnail.jpg" alt="Big Youth - hand painted T shirt - fabric paint - 2018" width="768" height="1062"></a>
-<figcaption>Big Youth - hand painted T shirt - fabric paint - 2018</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://colinmurrayartist.com/media/posts/7/gallery/Bob-Marley-T-shirt-2023.jpg" data-size="2075x2560"><img decoding="async" loading="lazy" src="https://colinmurrayartist.com/media/posts/7/gallery/Bob-Marley-T-shirt-2023-thumbnail.jpg" alt="Bob Marley - hand painted T shirt - fabric paint - 2018" width="768" height="948"></a>
-<figcaption>Bob Marley - hand painted T shirt - fabric paint - 2018</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://colinmurrayartist.com/media/posts/7/gallery/Peter-Tosh-for-website-2.jpg" data-size="2560x2560"><img decoding="async" loading="lazy" src="https://colinmurrayartist.com/media/posts/7/gallery/Peter-Tosh-for-website-2-thumbnail.jpg" alt="Pete Tosh - hand painted T shirt - fabric paint - 2018" width="768" height="768"></a>
-<figcaption>Pete Tosh - hand painted T shirt - fabric paint - 2018</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://colinmurrayartist.com/media/posts/7/gallery/Trojan-logo.jpg" data-size="1900x2560"><img decoding="async" loading="lazy" src="https://colinmurrayartist.com/media/posts/7/gallery/Trojan-logo-thumbnail.jpg" alt="Trojan - hand painted T shirt - fabric paint - 2023" width="768" height="1035"></a>
-<figcaption>Trojan - hand painted T shirt - fabric paint - 2023</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://colinmurrayartist.com/media/posts/7/gallery/Island-record-label.jpg" data-size="1977x2560"><img decoding="async" loading="lazy" src="https://colinmurrayartist.com/media/posts/7/gallery/Island-record-label-thumbnail.jpg" alt="Island - hand painted T shirt - fabric paint - 2023" width="768" height="994"></a>
-<figcaption>Island - hand painted T shirt - fabric paint - 2023</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://colinmurrayartist.com/media/posts/7/gallery/Emperor-moth-T-shirt-2-2023.jpg" data-size="2560x2176"><img decoding="async" loading="lazy" src="https://colinmurrayartist.com/media/posts/7/gallery/Emperor-moth-T-shirt-2-2023-thumbnail.jpg" alt="Emperor Moth - hand painted T shirt - fabric paint - 2020" width="768" height="653"></a>
-<figcaption>Emperor Moth - hand painted T shirt - fabric paint - 2020</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://colinmurrayartist.com/media/posts/7/gallery/Emperor-moth-T-shirt.jpg" data-size="2090x2560"><img decoding="async" loading="lazy" src="https://colinmurrayartist.com/media/posts/7/gallery/Emperor-moth-T-shirt-thumbnail.jpg" alt="Emperor Moth - hand painted T shirt" width="768" height="941"></a>
-<figcaption>Emperor Moth - hand painted T shirt</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://colinmurrayartist.com/media/posts/7/gallery/Toucan-with-Guinness-T-shirt-2023.jpg" data-size="1843x2560"><img decoding="async" loading="lazy" src="https://colinmurrayartist.com/media/posts/7/gallery/Toucan-with-Guinness-T-shirt-2023-thumbnail.jpg" alt="Toucan with Guinness - hand painted T shirt - fabric paint - 2020" width="768" height="1067"></a>
-<figcaption>Toucan with Guinness - hand painted T shirt - fabric paint - 2020</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://colinmurrayartist.com/media/posts/7/gallery/Green-Man-T-shirt-1.jpg" data-size="2556x2560"><img decoding="async" loading="lazy" src="https://colinmurrayartist.com/media/posts/7/gallery/Green-Man-T-shirt-1-thumbnail.jpg" alt="Green Man - hand painted T shirt - fabric paint - 2018" width="768" height="769"></a>
-<figcaption>Green Man - hand painted T shirt - fabric paint - 2018</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://colinmurrayartist.com/media/posts/7/gallery/Green-Man-T-shirt-2.jpg" data-size="2560x2567"><img decoding="async" loading="lazy" src="https://colinmurrayartist.com/media/posts/7/gallery/Green-Man-T-shirt-2-thumbnail.jpg" alt="Green Man 2 - hand painted T shirt - fabric paint - 2018" width="768" height="770"></a>
-<figcaption>Green Man 2 - hand painted T shirt - fabric paint - 2018</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://colinmurrayartist.com/media/posts/7/gallery/Tibet-and-me-2023.jpg" data-size="1640x2560"><img decoding="async" loading="lazy" src="https://colinmurrayartist.com/media/posts/7/gallery/Tibet-and-me-2023-thumbnail.jpg" alt="Tibet - hand painted T shirt - fabric paint - 2023" width="768" height="1199"></a>
-<figcaption>Tibet - hand painted T shirt - fabric paint - 2023</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://colinmurrayartist.com/media/posts/7/gallery/Tibetan-National-Flag-2023.jpg" data-size="2387x2560"><img decoding="async" loading="lazy" src="https://colinmurrayartist.com/media/posts/7/gallery/Tibetan-National-Flag-2023-thumbnail.jpg" alt="Tibet National Flag - hand painted T shirt - fabric paint - 2023" width="768" height="824"></a>
-<figcaption>Tibet National Flag - hand painted T shirt - fabric paint - 2023</figcaption>
-</figure>
-</div></div>
+                <p>Website screenshots and links..</p>
             ]]>
         </content>
     </entry>
     <entry>
         <title>Contact Me</title>
         <author>
-            <name>Colin Murray</name>
+            <name>Simon Spiers</name>
         </author>
-        <link href="https://colinmurrayartist.com/contact-me.html"/>
-        <id>https://colinmurrayartist.com/contact-me.html</id>
+        <link href="https://psychemy.github.io/gh_pages/contact/"/>
+        <id>https://psychemy.github.io/gh_pages/contact/</id>
 
-        <updated>2023-10-24T10:31:33+01:00</updated>
+        <updated>2023-10-22T14:52:07+01:00</updated>
             <summary>
                 <![CDATA[
                     Submit
@@ -560,12 +183,114 @@
             </summary>
         <content type="html">
             <![CDATA[
-                <form id="contactus" action="https://formsubmit.co/colinmurrayart@gmail.com" method="POST"><input name="_template" type="hidden" value="box"> <input name="_captcha" type="hidden" value="false"> <input name="_next" type="hidden" value="https://colinmurrayartist.com/contact-message"> <input name="_subject" type="hidden" value="New Contact Form Message!"> <input style="display: none;" name="_honey" type="text">
+                <form id="contactus" action="https://formsubmit.co/ba300d14b7d78ba56b010abb13ce1835" method="POST"><input name="_template" type="hidden" value="box"><input name="_captcha" type="hidden" value="false"><input name="_next" type="hidden" value="https://psychemy.github.io/gh_pages/thank-you-message"> <input name="_subject" type="hidden" value="New Contact Form Message!"><input style="display: none;" name="_honey" type="text">
 <p><input name="Name" required="" type="text" placeholder="Name"></p>
 <p><input name="Email" required="" type="email" placeholder="Email Address"></p>
 <p><textarea style="width: 100%;" name="Message" required="" rows="10" placeholder="Message..."></textarea></p>
 <p><button type="submit">Submit</button></p>
 </form>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Sky High!</title>
+        <author>
+            <name>Simon Spiers</name>
+        </author>
+        <link href="https://psychemy.github.io/gh_pages/sky-high/"/>
+        <id>https://psychemy.github.io/gh_pages/sky-high/</id>
+        <media:content url="https://psychemy.github.io/gh_pages/media/posts/5/sky_high-2023.jpg" medium="image" />
+            <category term="Paper Cuts"/>
+
+        <updated>2023-10-17T13:20:53+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://psychemy.github.io/gh_pages/media/posts/5/sky_high-2023.jpg" alt="Sky High! 39 x 60cm" />
+                    Inspired by poster art of the 1970's. An acid trip has morphed the Manhattan Island skyscrapers into fully loaded hypodermic syringes lit by&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://psychemy.github.io/gh_pages/media/posts/5/sky_high-2023.jpg" class="type:primaryImage" alt="Sky High! 39 x 60cm" /></p>
+                <p>Inspired by poster art of the 1970's. An acid trip has morphed the Manhattan Island skyscrapers into fully loaded hypodermic syringes lit by a setting 'Golden Brown' sun.</p>
+<blockquote>
+<p>How far does to high go!</p>
+</blockquote>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
+<figure class="gallery__item"><a href="https://psychemy.github.io/gh_pages/media/posts/5/gallery/sky_high-2023.jpg" data-size="1512x2268"><img loading="lazy" src="https://psychemy.github.io/gh_pages/media/posts/5/gallery/sky_high-2023-thumbnail.jpg" alt="Sky High 39 x 60cm - Signed limited edition of 29" width="720" height="1080"></a>
+<figcaption>39 x 60cm - Signed limited edition of 29</figcaption>
+</figure>
+</div></div>
+<blockquote>
+<p>Paper-cut artworks are available as 'limited edition originals' hand cut by myself using naturally textured 45% cotton rag paper which is both light-fast and acid-free in rich deep dyed colours. They come framed in white or black. All frames are conservation standard with 40% UV protection.</p>
+</blockquote>
+<p>If you would like to purchase an original paper-cut...</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Diamonds Are...</title>
+        <author>
+            <name>Simon Spiers</name>
+        </author>
+        <link href="https://psychemy.github.io/gh_pages/diamonds-are/"/>
+        <id>https://psychemy.github.io/gh_pages/diamonds-are/</id>
+        <media:content url="https://psychemy.github.io/gh_pages/media/posts/4/diamonds_are_a-2023.jpg" medium="image" />
+            <category term="Paper Cuts"/>
+
+        <updated>2023-10-17T13:21:51+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://psychemy.github.io/gh_pages/media/posts/4/diamonds_are_a-2023.jpg" alt="Diamonds Are... 60 x 26cm" />
+                    This paper-cut is a mash-up of the late, great, beautiful 'Marilyn Monroe' and the painting 'Chinese Girl' by 'Vladimir Tretchikoff'. Featuring a girls&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://psychemy.github.io/gh_pages/media/posts/4/diamonds_are_a-2023.jpg" class="type:primaryImage" alt="Diamonds Are... 60 x 26cm" /></p>
+                <p>This paper-cut is a mash-up of the late, great, beautiful 'Marilyn Monroe' and the painting 'Chinese Girl' by 'Vladimir Tretchikoff'. Featuring a girls best friend 'diamonds' repeating across the artwork.</p>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
+<figure class="gallery__item"><a href="https://psychemy.github.io/gh_pages/media/posts/4/gallery/diamonds_are_a-2023.jpg" data-size="2268x983"><img loading="lazy" src="https://psychemy.github.io/gh_pages/media/posts/4/gallery/diamonds_are_a-2023-thumbnail.jpg" alt="Diamonds are... 60 x 26cm - Signed limited Edition of 29." width="720" height="312"></a>
+<figcaption>60 x 26cm - Signed limited Edition of 29.</figcaption>
+</figure>
+</div></div>
+<blockquote>
+<p>Paper-cut artworks are available as 'limited edition originals' hand cut by myself using naturally textured 45% cotton rag paper which is both light-fast and acid-free in rich deep dyed colours. They come framed in white or black. All frames are conservation standard with 40% UV protection.</p>
+</blockquote>
+<p>If you would like to purchase an original paper-cut...</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Never Mind the...</title>
+        <author>
+            <name>Simon Spiers</name>
+        </author>
+        <link href="https://psychemy.github.io/gh_pages/never-mind-the/"/>
+        <id>https://psychemy.github.io/gh_pages/never-mind-the/</id>
+        <media:content url="https://psychemy.github.io/gh_pages/media/posts/3/never_mind_the-2023.jpg" medium="image" />
+            <category term="Paper Cuts"/>
+
+        <updated>2023-10-17T13:22:45+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://psychemy.github.io/gh_pages/media/posts/3/never_mind_the-2023.jpg" alt="Never Mind the... 60 x 25cm" />
+                    Inspired by the seminal 1977 punk album by the 'Sex Pistols'. The late Queen Elizabeth II's profile is referenced from the 'Royal Mail'&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://psychemy.github.io/gh_pages/media/posts/3/never_mind_the-2023.jpg" class="type:primaryImage" alt="Never Mind the... 60 x 25cm" /></p>
+                <p>Inspired by the seminal 1977 punk album by the 'Sex Pistols'. The late Queen Elizabeth II's profile is referenced from the 'Royal Mail' stamps issued from 1977-1981. The gun a Smith and Wesson .38 M5 revolver was used by plain clothes officers of The <span tabindex="0" role="tooltip"><span class="c5aZPb" tabindex="0" role="button" data-enable-toggle-animation="true" data-extra-container-classes="ZLo7Eb" data-hover-hide-delay="1000" data-hover-open-delay="500" data-send-open-event="true" data-theme="0" data-width="250" data-ved="2ahUKEwj9wMyX_9yBAxX0_rsIHQGqDhAQmpgGegQIFhAD"><span class="JPfdse" data-bubble-link="" data-segment-text="Diplomatic Protection Group">Diplomatic Protection Group (ordinary police officers weren't allowed to carry guns).</span></span></span> These were loaded with six bullets and they carried a clip of six spare rounds. God save the Queen.</p>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
+<figure class="gallery__item"><a href="https://psychemy.github.io/gh_pages/media/posts/3/gallery/never_mind_the-2023.jpg" data-size="2268x945"><img loading="lazy" src="https://psychemy.github.io/gh_pages/media/posts/3/gallery/never_mind_the-2023-thumbnail.jpg" alt="60 x 25cm - Signed limited edition of 29." width="720" height="300"></a>
+<figcaption>60 x 25cm - Signed limited edition of 29.</figcaption>
+</figure>
+</div></div>
+<blockquote>
+<p>Paper-cut artworks are available as 'limited edition originals' hand cut by myself using naturally textured 45% cotton rag paper which is both light-fast and acid-free in rich deep dyed colours. They come framed in white or black. All frames are conservation standard with 40% UV protection.</p>
+</blockquote>
+<p>If you would like to purchase an original paper-cut...</p>
             ]]>
         </content>
     </entry>

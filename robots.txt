@@ -1,3 +1,2 @@
 User-agent: *
-Disallow:
-Sitemap: https://colinmurrayartist.com/sitemap.xml
+Disallow: /
